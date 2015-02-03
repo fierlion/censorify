@@ -1,2 +1,1 @@
-# censorify
-node.js module for NPM (from Getting started with node.js)
+This is the censorify test node form Brad Dayley's Getting Started With node.js
